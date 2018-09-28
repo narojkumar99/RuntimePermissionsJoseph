@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/DialogSheet"
+        android:icon="@drawable/baseline_accessible_forward_white_48dp"
+        android:title="@string/dialogsheet" />
+
+    <item
+        android:id="@+id/BottomSheetDialogCreator"
+        android:icon="@drawable/ic_golf_course"
+        android:title="@string/bottomsheet" />
+
+</menu>
